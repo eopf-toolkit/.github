@@ -42,7 +42,7 @@ The [EOPF Tooling Guide](https://github.com/eopf-toolkit/eopf-tooling-guide) pro
 | R Integration           | R access to EOPF Zarr                        | Complete       |
 | Julia Integration       | Julia access to EOPF Zarr using STAC         | Planned        |
 | TiTiler Multidim        | Multidimensional data support for TiTiler    | In Development |
-| Stackstac Optimizations | Enhanced Stackstac for EOPF                  | Complete       |
+| Stackstac Optimizations | Enhanced Stackstac for EOPF                  | Planned        |
 
 ### EOPF Sentinel Zarr Sample Service
 
