@@ -38,8 +38,8 @@ The [EOPF Tooling Guide](https://github.com/eopf-toolkit/eopf-tooling-guide) pro
 | ----------------------- | -------------------------------------------- | -------------- |
 | Python Integration      | Python access to EOPF Zarr using STAC        | In Development |
 | GDAL Zarr Driver        | Enhanced GDAL driver for EOPF Zarr           | Planned        |
-| QGIS Plugin             | QGIS integration for EOPF Zarr               | Planned        |
-| R Integration           | R access to EOPF Zarr using STAC             | In Development |
+| QGIS Plugin             | QGIS integration for EOPF Zarr               | Complete       |
+| R Integration           | R access to EOPF Zarr                        | Complete       |
 | Julia Integration       | Julia access to EOPF Zarr using STAC         | Planned        |
 | TiTiler Multidim        | Multidimensional data support for TiTiler    | In Development |
 | Stackstac Optimizations | Enhanced Stackstac for EOPF                  | Planned        |
