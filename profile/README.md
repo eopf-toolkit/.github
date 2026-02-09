@@ -80,7 +80,7 @@ We welcome you to join this community effort:
 
 * 🌟 Follow us here on [GitHub](https://github.com/eopf-toolkit)
 * 🔍 Explore [EOPF 101](https://eopf-toolkit.github.io/eopf-101/)
-* 🚀 Participate in the [EOPF Toolkit Notebook Competition](https://thrivegeo.com/eopf-community-notebook-competition/) (Oct 2025 - Jan 2026) - [Express your interest](https://thrivegeo.com/eopf-toolkit-competition/)
+* 🚀 Participate in the [EOPF Toolkit Notebook Competition](https://thrivegeo.com/eopf-community-notebook-competition/) (Oct 2025 - Mar 2026) - [Express your interest](https://thrivegeo.com/eopf-toolkit-competition/)
 * 💡 Provide feedback and feature requests
 * 🤝 Contribute to our open-source libraries and plugins
 
@@ -88,7 +88,7 @@ We welcome you to join this community effort:
 
 * ✅ **June 2025**: Launch of first version during Living Planet Symposium
 * 🔄 **2nd half of 2025**: Development of thematic case studies with champion users
-* 🏆 **Oct 2025 to Jan 2026**: EOPF Notebook competition
+* 🏆 **Oct 2025 to March 2026**: EOPF Notebook competition
 * 📢 **Throughout**: Communications and outreach through social media and conferences
 
 ---
