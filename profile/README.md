@@ -27,8 +27,8 @@ Zarr's chunked architecture divides data into small, independent pieces that ena
 * **Chapter 1**: Introduction to EOPF, cloud-optimized geospatial formats, and overview of EOPF Zarr products
 * **Chapter 2**: Deep dive into Zarr format structure with hands-on examples
 * **Chapter 3**: SpatioTemporal Asset Catalog (STAC) integration with EOPF data
-* **Chapter 4**: Tools and libraries for working with EOPF Zarr (Coming Soon)
-* **Chapter 5**: Real-world application workflows and case studies (Coming Soon)
+* **Chapter 4**: Tools and libraries for working with EOPF Zarr
+* **Chapter 5**: Real-world application workflows and case studies 
 
 ### EOPF Tooling Guide
 
@@ -80,15 +80,15 @@ We welcome you to join this community effort:
 
 * 🌟 Follow us here on [GitHub](https://github.com/eopf-toolkit)
 * 🔍 Explore [EOPF 101](https://eopf-toolkit.github.io/eopf-101/)
-* 🚀 Participate in the [EOPF Toolkit Notebook Competition](https://thrivegeo.com/eopf-community-notebook-competition/) (Oct 2025 - Jan 2026) - [Express your interest](https://thrivegeo.com/eopf-toolkit-competition/)
-* 💡 Provide feedback and feature requests
+* 🚀 Participate in the [EOPF Toolkit Notebook Competition](https://thrivegeo.com/eopf-community-notebook-competition/) (Deadline: 15 March 2026)
+* 💡 Provide feedback and feature requests via GitHub issues
 * 🤝 Contribute to our open-source libraries and plugins
 
 ## Development Timeline
 
 * ✅ **June 2025**: Launch of first version during Living Planet Symposium
 * 🔄 **2nd half of 2025**: Development of thematic case studies with champion users
-* 🏆 **Oct 2025 to Jan 2026**: EOPF Notebook competition
+* 🏆 **Nov 2025 to Mar 2026**: EOPF Notebook competition
 * 📢 **Throughout**: Communications and outreach through social media and conferences
 
 ---
