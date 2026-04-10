@@ -40,7 +40,7 @@ The [EOPF Tooling Guide](https://github.com/eopf-toolkit/eopf-tooling-guide) pro
 | GDAL Zarr Driver        | Enhanced GDAL driver for EOPF Zarr        | Complete       |
 | QGIS Plugin             | QGIS integration for EOPF Zarr            | Complete       |
 | R Integration           | R access to EOPF Zarr using STAC          | Complete       |
-| Julia Integration       | Julia access to EOPF Zarr using STAC      | Planned        |
+| Julia Integration       | Julia access to EOPF Zarr using STAC      | Complete       |
 | TiTiler Multidim        | Multidimensional data support for TiTiler | In Development |
 | Stackstac Optimizations | Enhanced Stackstac for EOPF               | Complete       |
 
